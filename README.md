@@ -21,6 +21,7 @@ or
 * .htm
 * .js
 * .css
+* .pubkey
 
 ### Edit subjects
 
